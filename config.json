@@ -1,0 +1,14 @@
+{
+    "delay_lockon": {
+        "on": true,
+        "min": 5,
+        "max": 10
+    },
+    "cleanse": {
+        "smart": true
+    },
+    "dps": {
+        "auto": true,
+        "delay": 300 
+    }
+}
